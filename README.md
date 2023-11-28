@@ -1,0 +1,1 @@
+I am learning the git and github course from youtube with freecodecamp. Git is a version control system which helps to store code in online.
